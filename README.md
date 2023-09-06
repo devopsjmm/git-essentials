@@ -11,3 +11,14 @@
 10164  git commit -m "First commit"
 10165  git log
 ➜  test git:(feature)
+
+when·ev·er we create a new file we have ai
+
+ unstage workx
+ stage work
+ commit work
+ push work
+
+
+
+
