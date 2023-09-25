@@ -1,24 +1,5 @@
-# git-essentials
-10149  cd ../
-10150  mkdir test
-10151  cd test
-10156  pwd
-10157  echo "# git-essentials" >> README.md
-10158  git init
-10159  git add README.md
-10160  git status
-10161  git -m commit
-10164  git commit -m "First commit"
-10165  git log
-➜  test git:(feature)
+# jenkins-example-private-repo
 
-when·ev·er we create a new file we have ai
+## Documentation
 
- unstage workx
- stage work
- commit work
- push work
-
-
-
-
+* [GitHub Permissions and API token Scopes for Jenkins](https://support.cloudbees.com/hc/en-us/articles/234710368-GitHub-Permissions-and-API-token-Scopes-for-Jenkins)
